@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Rebuild-content-api/bin/Debug
+/Rebuild-content-api/obj/Debug
+/Rebuild-content-api/obj/Release/net8.0
+/Rebuild-content-api/obj
+/.vs
