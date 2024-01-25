@@ -7,3 +7,6 @@
 /Rebuild-content-api/obj/Release/net8.0
 /Rebuild-content-api/obj
 /.vs
+/rebuild-content/bin/Debug/net8.0
+/rebuild-content/obj/Release/net8.0
+/rebuild-content/obj
